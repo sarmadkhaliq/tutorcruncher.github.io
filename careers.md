@@ -1,6 +1,6 @@
 ---
 layout: careers
-title: "Careers"
+title: Careers
 permalink: /careers/
 ---
 
@@ -9,7 +9,6 @@ permalink: /careers/
 Want an internship in a rapidly growing software startup?
 
 TutorCruncher is recruiting team members to help with the programming and coding.
-
 
 Job requirements:
 
@@ -22,17 +21,11 @@ Comprehension of HTML and CSS required
 
 Background knowledge of Python (and possibly Django) is strongly recommended
 
-Placement Type:
-&nbsp;&nbsp;Internship
+Working Hours: Full time
 
-Duration:
-&nbsp;&nbsp;3 months
+Duration: 3 months
 
-Working Hours:
-&nbsp;&nbsp;Full time
-
-Start Date:
-&nbsp;&nbsp;As Soon As Possible
+Start Date: As Soon As Possible
 
 Due to VISA difficulties we only accept European students.
 
@@ -59,21 +52,15 @@ The internship role will include, among other things, the following tasks:
 
 The right candidate should be enthusiastic, hard working and proactive, have an understanding of marketing strategy and have great attention to detail. Great written and spoken English is required.
 
-Please note that the internship will be unpaid, but we can provide you with a refund for the public transport.
+Please note that this internship will be unpaid, but we can provide you with a refund for the public transport.
 
 This opportunity is ongoing.
 
-Placement Type:
-&nbsp;&nbsp;Internship
+Working Hours: Full time
 
-Duration:
-&nbsp;&nbsp;3 months
+Duration: 3 months
 
-Working Hours:
-&nbsp;&nbsp;Full time
-
-Start Date:
-&nbsp;&nbsp;As Soon As Possible
+Start Date: As Soon As Possible
 
 Due to VISA difficulties we only accept European students.
 
