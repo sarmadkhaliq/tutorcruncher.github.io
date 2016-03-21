@@ -4,7 +4,7 @@ title: Careers
 permalink: /careers/
 ---
 
-##  Exciting Role In Software Startup
+##  Exciting Internship In Software Startup
 
 Want an internship in a rapidly growing software startup?
 
@@ -29,7 +29,7 @@ Start Date: As Soon As Possible
 
 Due to VISA difficulties we only accept European students.
 
-To apply, please send your CV and a brief cover letter to tom@tutorcruncher.com
+To apply, please send your CV and a brief cover letter to tom@tutorcruncher.com.
 
 <br>
 
@@ -37,7 +37,7 @@ To apply, please send your CV and a brief cover letter to tom@tutorcruncher.com
 
 TutorCruncher is a fast-growing software company in Central London that provides academic tuition for clients in the UK and all over the world. We are offering an amazing opportunity for the right candidate to join our young and dynamic team, which includes smart and creative people from all over Europe.
 
-We are looking for someone to assist us in developing and implementing our marketing strategies, helping with social media management, SEO, posting blogs, market research, email marketing and much more. You will learn how to develop marketing strategies and be involved in “live” marketing execution through the 4 Ps. Price, Place, Product and Promotion.
+We are looking for someone to assist us in developing and implementing our marketing strategies, helping with social media management, SEO, posting blogs, market research, email marketing and much more. You will learn how to develop marketing strategies and be involved in “live” marketing execution through the 4 P's: Price, Place, Product and Promotion.
 
 The internship role will include, among other things, the following tasks:
 
@@ -50,9 +50,7 @@ The internship role will include, among other things, the following tasks:
 - Conduct email marketing campaigns
 - Build relationships with customers
 
-The right candidate should be enthusiastic, hard working and proactive, have an understanding of marketing strategy and have great attention to detail. Great written and spoken English is required.
-
-Please note that this internship will be unpaid, but we can provide you with a refund for the public transport.
+The right candidate should be enthusiastic, hard-working and proactive, have an understanding of marketing strategy and have great attention to detail. Great written and spoken English is required.
 
 This opportunity is ongoing.
 
@@ -64,4 +62,4 @@ Start Date: As Soon As Possible
 
 Due to VISA difficulties we only accept European students.
 
-To apply, please send your CV and a brief cover letter to tom@tutorcruncher.com
+To apply, please send your CV and a brief cover letter to tom@tutorcruncher.com.
