@@ -4,7 +4,7 @@ title: Careers
 permalink: /careers/
 ---
 
-##  Exciting Internship In Software Startup
+## Exciting Internship In Software Startup
 
 Want an internship in a rapidly growing software startup?
 
