@@ -27,6 +27,11 @@ h2 {
   margin-bottom: 25px;
 }
 
+h4 {
+  font-size: inherit;
+  font-weight: 600;
+}
+
 hr {
   border: 2px solid $main-colour;
   max-width: 50px;
@@ -327,7 +332,7 @@ section#pricing-table {
     text-align: center;
   }
   .panel-default {
-    color: #777;
+      color: #777;
   }
   .panel-primary {
     border-color: $main-colour;
@@ -560,8 +565,8 @@ div.col-md-3 {
     max-width: 60%;
   }
   @media (max-width: 991px) {
-    padding-top: 25px;
     padding-left: 15px;
+    padding-top: 20px;
   }
 }
 
