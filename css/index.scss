@@ -70,7 +70,13 @@ header {
 section#signup {
   padding-bottom: 10px;
   @media (min-width: 768px) {
-    padding: 20px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+  }
+  @media (min-width: 768px) {
+    p {
+      font-size: 16px;
+    }
   }
 }
 
@@ -108,12 +114,25 @@ section#contact, section#pricing {
 }
 
 section#team {
-  >.carousel{
+  >.carousel {
     @include background-cover;
     background: url('/img/team_back.jpg') center;
   }
   h1 {
     color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+  .carousel {
+    margin-bottom: 20px;
+  }
+  .carousel-caption {
+    padding-bottom: 50px;
+    left: 15%;
+    right: 15%;
+    p {
+      font-size: 15px;
+    }
   }
   .carousel-inner {
     img {
@@ -122,13 +141,9 @@ section#team {
       margin-right: auto;
     }
     .item {
-      height: 275px;
+      height: 290px;
     }
   }
-    .carousel-caption {
-      left: 15%;
-      right: 15%;
-    }
   @media (max-width: 768px) {
     .carousel-caption {
       right: 0;
@@ -138,10 +153,11 @@ section#team {
       }
     }
   }
-}
-
-section#footer {
-  position: relative;
+  @media (max-width: 405px) {
+    .carousel-caption {
+      padding-bottom: 40px;
+    }
+  }
 }
 
 #map {
