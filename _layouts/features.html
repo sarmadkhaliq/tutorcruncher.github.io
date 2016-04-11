@@ -1,13 +1,31 @@
 ---
 layout: base
 ---
-<div class="container main narrow">
-  <article>
-    <header>
-      <h1>{{ page.title }}</h1>
-    </header>
-    <div>
-      {{ content }}
-    </div>
-  </article>
-</div>
+<body class="grey">
+  <div class="container">
+    <article class="animated fadeIn short-delay">
+      <div class="col-md-3">
+        <div class="bs-sidebar hidden-print affix well">
+          <ul class="nav bs-sidenav">
+            <li>
+              <a href="#scheduling" class="smoothScroll">Scheduling</a>
+            </li>
+            <li>
+              <a href="#calender" class="smoothScroll">Easy to use calendar</a>
+            </li>
+            <li>
+              <a href="#viewHours" class="smoothScroll">Tutors and clients can log in to view their hours</a>
+            </li>
+            <li>
+              <a href="#resources" class="smoothScroll">Upload learning resources</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-9">
+        <h1 id="scheduling">{{ page.title }}</h1>
+        {{ content }}
+      </div>
+    </article>
+  </div>
+</body>
