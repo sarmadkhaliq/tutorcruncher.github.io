@@ -1,12 +1,13 @@
 ---
 layout: base
 ---
-<div class="container main">
+<div class="container main animated fadeIn short-delay">
   <article>
     <header>
-      <h1 class="text-center">{{ page.title }}</h1>
+      <h1 class="text-center header-spacing">{{ page.title }}</h1>
     </header>
-    <div class="row">
+    <hr class="primary">
+    <div class="row top-margin-50" id="pricing-feature">
       {% for feature in site.data.pricing_features %}
         {% include mixins/feature_block.html feature=feature %}
       {% endfor %}
@@ -17,8 +18,8 @@ layout: base
       <a href="https://secure.tutorcruncher.com/start/1/" class="btn btn-primary btn-xl">Sign up now for free</a>
     </div>
   </div>
-  <hr class="primary">
-  <h4 class="text-center">Every tier comes with a 14 day free trial!</h4>
+  <hr class="primary top-margin-30">
+  <h4 class="text-center caption-spacing">Every tier comes with a 14 day free trial!</h4>
 
   <div class="row">
     <section id="pricing-table">
