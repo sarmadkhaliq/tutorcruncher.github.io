@@ -113,6 +113,14 @@ section#contact, section#pricing {
   }
 }
 
+section#pricing {
+  div.col-sm-3 {
+    p {
+      margin-top: 10px;
+    }
+  }
+}
+
 section#team {
   >.carousel {
     @include background-cover;
