@@ -1,5 +1,5 @@
 ---
-layout: features
+layout: cloud_software
 title: Cloud Software
 permalink: /features/cloud-software/
 redirect_from: 
@@ -8,19 +8,19 @@ redirect_from:
 ---
 Access our system from safely from any platform with TutorCruncher's cloud based system.
 
-### All you need is internet access
+<h3 id="internet-access">All you need is internet access</h3>
 
-TutorCruncher has been optimised for all devices, from mobile phones to laptops to tablets, so can be used anytime, anywhere.
+TutorCruncher has been optimised for all devices, from mobile phones to laptops to tablets, so it can be used anytime, anywhere.
 
 <a href="/img/features/mobile-job-screenshot.png" data-lightbox="lightbox" data-title="Jobs on mobile devices" class="thumbnail">
   <img src="/img/features/mobile-job-screenshot.png" alt-text="Jobs on mobile devices"/>
 </a>
 
-### A quick system means quicker work
+<h3 id="quick-system">A quick system means quicker work</h3>
 
-We make sure that every page in the system loads as quick as possible, whiche means that when we compared TutorCruncher to the top 10 websites around the world, the only one that beats us for speed is google.com.
+We make sure that every page in the system loads as quick as possible, which means that when we compared TutorCruncher to the top 10 websites around the world, the only one that beats us for speed is google.com.
 
-### Your data is secure
+<h3 id="secure-data">Your data is secure</h3>
 
 At TutorCruncher security is our top priority. Our system is hosted with [Heroku](https://www.heroku.com/policy/security) on [Amazon AWS](https://aws.amazon.com/security/), which is used by companies of all sizes around the world.
 

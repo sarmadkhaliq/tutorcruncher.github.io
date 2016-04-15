@@ -44,7 +44,7 @@
 -
   name: Data Reporting
   icon: fa-line-chart
-  feature-page: /features/analytics/
+  feature-page: /features/data-reports/
   text: |
     Analyse the performance of your business with graphical data outputs and breakdowns of revenue by subject,
     teaching level and time period.
@@ -74,9 +74,19 @@
   feature-page: /features/multi-language/
   text: |
     TutorCruncher is available in English, French, German, Spanish and Chinese.
+<<<<<<< HEAD
 -
   name: Online Resources
   icon: fa-folder-open-o
   feature-page: /features/multi-language/
   text: |
     Click here for Documents and other resources.
+||||||| parent of 8e87d7d... Merge branch 'updates-to-features' of https://github.com/sarmadkhaliq/tutorcruncher.github.io into sarmad-features
+=======
+-
+  name: Online Resources
+  icon: fa-folder-open-o
+  feature-page: /features/documents/
+  text: |
+    Documents can be uploaded for users to view or download.
+>>>>>>> 8e87d7d... Merge branch 'updates-to-features' of https://github.com/sarmadkhaliq/tutorcruncher.github.io into sarmad-features

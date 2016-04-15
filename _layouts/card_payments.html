@@ -1,0 +1,31 @@
+---
+layout: base
+---
+<body class="grey">
+  <div class="container">
+    <article class="animated fadeIn short-delay">
+      <div class="col-md-3">
+        <div class="bs-sidebar hidden-print affix well">
+          <ul class="nav bs-sidenav">
+            <li>
+              <a href="#card-payments" class="smoothScroll">{{ page.title }}</a>
+            </li>
+            <li>
+              <a href="#easy-payment" class="smoothScroll">Easy payment for clients</a>
+            </li>
+            <li>
+              <a href="#save-details" class="smoothScroll">Save card details</a>
+            </li>
+            <li>
+              <a href="#take-payments" class="smoothScroll">Take payments over the phone</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-9">
+        <h1 id="card-payments">{{ page.title }}</h1>
+        {{ content }}
+      </div>
+    </article>
+  </div>
+</body>

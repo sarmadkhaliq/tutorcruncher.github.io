@@ -181,12 +181,28 @@ section {
   height: 230px;
 }
 
+<<<<<<< HEAD
 @media (min-width: 768px) and (max-width: 991px) {
   .container.main .feature {
     margin-bottom: 20px;
   }
 }
 
+||||||| parent of 8e87d7d... Merge branch 'updates-to-features' of https://github.com/sarmadkhaliq/tutorcruncher.github.io into sarmad-features
+=======
+@media (min-width: 768px) and (max-width: 991px) {
+  .container.main .feature {
+    margin-bottom: 20px;
+  }
+}
+
+#pricing-feature {
+  .feature {
+    height: 200px;
+  }
+}
+
+>>>>>>> 8e87d7d... Merge branch 'updates-to-features' of https://github.com/sarmadkhaliq/tutorcruncher.github.io into sarmad-features
 .post-meta {
   color: #666;
   margin-bottom: 10px;
@@ -380,10 +396,8 @@ a:hover {
   padding-top: 30px;
 }
 
-@media (max-width: 768px) {
-  .margin-bottom-25 {
-    margin-bottom: 25px;
-  }
+.margin-bottom-25 {
+  margin-bottom: 25px;
 }
 
 header .wrapper {

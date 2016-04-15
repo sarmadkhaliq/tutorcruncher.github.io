@@ -1,5 +1,5 @@
 ---
-layout: features
+layout: scheduling
 title: Scheduling and timetabling
 permalink: /features/scheduling/
 redirect_from: /features/advanced-scheduling/
@@ -15,7 +15,13 @@ calendar, meaning you can view it however you want, when you want.
   <img src="/img/features/calendar.png" alt-text="TutorCruncher's calendar"/>
 </a>
 
+<<<<<<< HEAD
 <h3 id="viewHours">Tutors and clients can log in to view their hours</h3>
+||||||| parent of 8e87d7d... Merge branch 'updates-to-features' of https://github.com/sarmadkhaliq/tutorcruncher.github.io into sarmad-features
+### Tutors and clients can log in to view their hours
+=======
+<h3 id="view-hours">Tutors and clients can log in to view their hours</h3>
+>>>>>>> 8e87d7d... Merge branch 'updates-to-features' of https://github.com/sarmadkhaliq/tutorcruncher.github.io into sarmad-features
 
 With our tutor and client log ins, your clients can log in to view their calendar, and can even integrate it with their own calendars!
 
