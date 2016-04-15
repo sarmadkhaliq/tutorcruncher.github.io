@@ -1,5 +1,5 @@
 ---
-layout: features
+layout: multi_language
 title: Multi-language, timezone and currency support 
 permalink: /features/multi-language/
 redirect_from:
@@ -11,7 +11,7 @@ TutorCruncher supports any country, and you can change your timezone, language a
 
 Your timezone can be set for each user, so different users can have different timezones.
 
-Your language is set by the user's browser, so no need to change any computer or TutorCruncher settings:
+<p id="languages">Your language is set by the user's browser, so no need to change any computer or TutorCruncher settings:</p>
 
 <a href="/img/features/fr_tu.png" data-lightbox="lightbox" data-title="TutorCruncher translated into French" class="thumbnail">
   <img src="/img/features/fr_tu.png" alt-text="TutorCruncher translated into French"/>

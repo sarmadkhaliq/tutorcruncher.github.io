@@ -1,5 +1,5 @@
 ---
-layout: features
+layout: crm
 title: Tutor, Client & Student Profiles
 permalink: /features/crm/
 redirect_from:
@@ -7,7 +7,7 @@ redirect_from:
   - /features/parent-pupil-profiles-management/
 ---
 
-### Tutors create their own profiles
+<h3 id="tutor-profiles">Tutors create their own profiles</h3>
 
 Tutors can sign themselves up and create their own profiles with TutorCruncher.
 
@@ -30,7 +30,7 @@ Tutors can see exactly how much of their profile they have filled in, and what i
   <img src="/img/features/profile-completion.png" alt-text="Tutor's Profile Completion Graph"/>
 </a>
 
-### Client Profiles
+<h3 id="client-profiles">Client Profiles</h3>
 
 Clients and students also have profiles they can log in to with TutorCruncher, depending on whether or not you wish to allow it as an administrator. Like tutors, clients and students can only see information relevant to them, such as invoices, lesson reports and the jobs they are currently attached to.
 

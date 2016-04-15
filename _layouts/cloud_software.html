@@ -1,0 +1,33 @@
+---
+layout: base
+---
+<body class="grey">
+  <div class="container">
+    <article class="animated fadeIn short-delay">
+      <div class="col-md-3">
+        <div class="bs-sidebar hidden-print affix well">
+          <ul class="nav bs-sidenav">
+            <li>
+              <a href="#cloud-software" class="smoothScroll">{{ page.title }}</a>
+            </li>
+            <li>
+              <a href="#internet-access" class="smoothScroll">All you need is internet access</a>
+            </li>
+            <li>
+              <a href="#quick-system" class="smoothScroll">Quick system</a>
+            </li>
+            <li>
+              <a href="#secure-data" class="smoothScroll">Secure data</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-9">
+        <h1 id="cloud-software">
+          {{ page.title }}
+        </h1>
+        {{ content }}
+      </div>
+    </article>
+  </div>
+</body>
