@@ -1,12 +1,12 @@
 ---
-layout: features
+layout: card_payments
 title: Card Payments
 permalink: /features/card-payments/
 redirect_from: /credit-card-payments/
 ---
 We have integrated with a card payment system called [Stripe](http://www.stripe.com) to help you take payment as quickly and easily as possible.
 
-### Easy payment for clients
+<h3 id="easy-payment">Easy payment for clients</h3>
 
 With our integrated card payment system, clients can pay an invoice by clicking the link in the automated email sent from TutorCruncher as soon as they receive it. The invoice is then marked as paid in the system so you don't have to lift a finger!
 
@@ -14,7 +14,7 @@ With our integrated card payment system, clients can pay an invoice by clicking 
   <img src="/img/features/stripe-payment.jpg" alt-text="Stripe card payment"/>
 </a>
 
-### Save card details
+<h3 id="save-details">Save card details</h3>
 
 Your clients can choose to remember their card details to make future payments quicker still. This also gives admins the ability to take payments on their behalf if they allow it.
 
@@ -22,7 +22,7 @@ Your clients can choose to remember their card details to make future payments q
   <img src="/img/features/saved-card.png" alt-text="Stripe saved card"/>
 </a>
 
-### Take payments over the phone
+<h3 id="take-payments">Take payments over the phone</h3>
 
 Admins have the ability to take card payments over the phone, so the entire process takes as little time out of your day as possible.
 
