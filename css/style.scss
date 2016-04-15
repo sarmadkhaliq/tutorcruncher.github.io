@@ -385,10 +385,8 @@ a:hover {
   padding-top: 30px;
 }
 
-@media (max-width: 768px) {
-  .margin-bottom-25 {
-    margin-bottom: 25px;
-  }
+.margin-bottom-25 {
+  margin-bottom: 25px;
 }
 
 header .wrapper {
@@ -549,10 +547,6 @@ span.green {
   .col-lg-4 {
     margin-bottom: 20px;
   }
-}
-
-#highlights hr {
-  margin-top: 0;
 }
 
 #highlights hr {

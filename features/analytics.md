@@ -1,5 +1,5 @@
----
-layout: features
+---resources
+layout: analytics
 title: Analytics
 permalink: /features/analytics/
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 Analyse the performance of your business using TutorCruncher.
 
-### Clear Graphs
+<h3 id="clear-graphs">Clear Graphs</h3>
 
 Our automatically generated graphs let you easily see how your business is growing.
 
@@ -16,7 +16,7 @@ Our automatically generated graphs let you easily see how your business is growi
   <img src="/img/features/analytics-graph.png" alt-text="TutorCruncher's Analytics Graph"/>
 </a>
 
-### Easy to read data
+<h3 id="easy-to-read-data">Easy to read data</h3>
 
 You can view your income by a variety of different factors, so you can see exactly where your money is coming from.
 
