@@ -1,11 +1,12 @@
----resources
-layout: analytics
+---
+layout: data_reports
 title: Analytics
-permalink: /features/analytics/
+permalink: /features/data-reports/
 redirect_from:
   - /features/reports-and-analytics/
   - /features/records-and-analytics/
 ---
+
 Analyse the performance of your business using TutorCruncher.
 
 <h3 id="clear-graphs">Clear Graphs</h3>

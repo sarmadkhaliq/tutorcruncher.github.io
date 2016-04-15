@@ -44,7 +44,7 @@
 -
   name: Data Reporting
   icon: fa-line-chart
-  feature-page: /features/analytics/
+  feature-page: /features/data-reports/
   text: |
     Analyse the performance of your business with graphical data outputs and breakdowns of revenue by subject,
     teaching level and time period.
