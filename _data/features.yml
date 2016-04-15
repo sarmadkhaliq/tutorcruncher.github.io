@@ -74,3 +74,9 @@
   feature-page: /features/multi-language/
   text: |
     TutorCruncher is available in English, French, German, Spanish and Chinese.
+-
+  name: Online Resources
+  icon: fa-folder-open-o
+  feature-page: /features/documents/
+  text: |
+    Documents can be uploaded for users to view or download.
