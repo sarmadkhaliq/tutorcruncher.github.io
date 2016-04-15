@@ -8,7 +8,7 @@ Scheduling is the most important part of everyday business, and therefore it has
 
 <h3 id="calender">Easy to view calendar</h3>
 
-You can view your calendar by month, week or day. You can filter you calendar by student, client, tutor or job and you can even colour code your 
+You can view your calendar by month, week or day. You can filter you calendar by student, client, tutor or job and you can even colour code your
 calendar, meaning you can view it however you want, when you want.
 
 <a href="/img/features/calendar.png" data-lightbox="lightbox" data-title="TutorCruncher's calendar" class="thumbnail">
