@@ -1,5 +1,5 @@
 ---
-layout: features
+layout: scheduling
 title: Scheduling and timetabling
 permalink: /features/scheduling/
 redirect_from: /features/advanced-scheduling/
@@ -8,14 +8,14 @@ Scheduling is the most important part of everyday business, and therefore it has
 
 <h3 id="calender">Easy to view calendar</h3>
 
-You can view your calendar by month, week or day. You can filter you calendar by student, client, tutor or job and you can even colour code your 
+You can view your calendar by month, week or day. You can filter you calendar by student, client, tutor or job and you can even colour code your
 calendar, meaning you can view it however you want, when you want.
 
 <a href="/img/features/calendar.png" data-lightbox="lightbox" data-title="TutorCruncher's calendar" class="thumbnail">
   <img src="/img/features/calendar.png" alt-text="TutorCruncher's calendar"/>
 </a>
 
-<h3 id="viewHours">Tutors and clients can log in to view their hours</h3>
+<h3 id="view-hours">Tutors and clients can log in to view their hours</h3>
 
 With our tutor and client log ins, your clients can log in to view their calendar, and can even integrate it with their own calendars!
 

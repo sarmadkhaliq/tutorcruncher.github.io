@@ -192,12 +192,6 @@ section {
   }
 }
 
-#pricing-feature {
-  .feature {
-    height: 200px;
-  }
-}
-
 .post-meta {
   color: #666;
   margin-bottom: 10px;
@@ -391,10 +385,8 @@ a:hover {
   padding-top: 30px;
 }
 
-@media (max-width: 768px) {
-  .margin-bottom-25 {
-    margin-bottom: 25px;
-  }
+.margin-bottom-25 {
+  margin-bottom: 25px;
 }
 
 header .wrapper {
