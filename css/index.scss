@@ -127,7 +127,13 @@ section#team {
   }
   h1 {
     color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
   }
+  .carousel {
+    margin-bottom: 20px;
+  }
+>>>>>>> files for header and front page
   .carousel-inner {
     img {
       width: 120px;
@@ -135,7 +141,7 @@ section#team {
       margin-right: auto;
     }
     .item {
-      height: 275px;
+      height: 290px;
     }
   }
     .carousel-caption {
