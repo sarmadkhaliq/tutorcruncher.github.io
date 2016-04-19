@@ -5,9 +5,14 @@ title: Testimonials
 description: Testimonials of TutorCruncher from Happy Users
 ---
 <div class="row">
-  <h1>{{ page.title }}</h1>
+  <div class="col-lg-12 text-center top-margin-40 animated fadeIn short-delay">
+    <h1>
+      {{ page.title }}
+    </h1>
+    <hr class="primary">
+  </div>
 </div>
-<div class="container main-post">
+<div class="container main-post animated fadeIn long-delay">
   <div class="row">
     {% for testimonial in site.data.testimonials %}
       <div class="testimonial">
